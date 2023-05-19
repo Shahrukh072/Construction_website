@@ -1,6 +1,6 @@
 # SSK Infratech
 
-https://sskinfratech.netlify.app/index.html
+https://sskinfratech.netlify.app/
 
 ![Screenshot 2023-05-19 20 41 15](https://github.com/Shahrukh072/Construction_website/assets/37824383/57270da2-f9c9-4f94-b025-5ddf22a710bd)
 ![Screenshot 2023-05-19 20 41 31](https://github.com/Shahrukh072/Construction_website/assets/37824383/ee8c879c-baad-4e8f-b970-2af5e868c0d6)
